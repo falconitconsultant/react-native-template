@@ -70,11 +70,10 @@ Options:
 yarn react-native generate-bootsplash path/to/image.png \
   --background=F5FCFF \
   --logo-width=100 \
-  --assets-output=src/Assets/bootsplash \
   --flavor=main
 ```
 
-**⚠️ After running above command:**
+**⚠️⚠️⚠️ After running above command:**
 > Copy all drawable-<*> assets to relative mipmap-<*> folders ```example drawable-hdpi/bootsplash_logo.png to mipmap-hdpi```
 
 ## Error
